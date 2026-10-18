@@ -1,4 +1,4 @@
-# Equity Volatility & Moving Average Analyzer
+# Finance projects
 
 A lightweight quantitative data analysis tool built in Python to pull historical equity data, compute technical indicators, and model asset risk.
 
